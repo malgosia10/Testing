@@ -1,1 +1,1 @@
-# 1st
+I'm a professional with experience in working with demanding clients. I enjoy learning new things and now I'm looking for new challenges. The first step was completion of the Tester training program given by Jagiellonian University. It was a good overview of different elements, including programming. My goal is to keep practicing manual testing and develop automated testing. Over here I want to share projects, show my skills and the tools I use. 
